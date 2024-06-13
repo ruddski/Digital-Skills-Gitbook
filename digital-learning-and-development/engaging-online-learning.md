@@ -57,6 +57,8 @@ For example:
 
 For a great example of presenting your online teaching to as wide an audience as possible, look at Mish Boutet’s [_Ateliers sur demande_](https://ateliers-workshops.ca/), a collaborative project for producing bilingual online information literacy instruction for Canadian university students.  Each lesson provides a short introductory video, teamed with an interactive transcript and written instructions. This is a demonstration of accessibility for everybody – because all of us might prefer different learning techniques at different times.
 
+Universal Design for Learning is a principle which emcompasses many aspects of accessibility. It also ensures that web resources are easy to read, navigate and understand for all users.
+
 
 # Bibliography
 Irwin, E. and S. Nance (2021). Online pedagogy principles and practice, University of Newcastle.
