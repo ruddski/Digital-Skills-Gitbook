@@ -8,6 +8,6 @@ Topics include:
  
 **Information literacy skills and knowledge:** How to find, evaluate, manage and disseminate information.
  
-**Media literacy skills and knowledge:** How to develop skills for the creation and consumption of, and participation in, digital media.
+**Media literacy skills and knowledge:** How to develop skills for the creation and consumption of, and participation in, digital media. How to spot misinformation and disinformation.
  
 **Data literacy skills and knowledge:** will support efficient, effective and ethical creation, maintenance, interpretation, dissemination and preservation of data in both personal and professional capacities.
