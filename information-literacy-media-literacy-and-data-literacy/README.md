@@ -10,4 +10,4 @@ Topics include:
  
 **Media literacy skills and knowledge:** How to develop skills for the creation and consumption of, and participation in, digital media. How to spot misinformation and disinformation.
  
-**Data literacy skills and knowledge:** will support efficient, effective and ethical creation, maintenance, interpretation, dissemination and preservation of data in both personal and professional capacities.
+**Data literacy skills and knowledge:** will support efficient, effective and ethical creation, maintenance, interpretation, dissemination and preservation of data in both personal and professional capacities. To understand how data is used to influence your online activities.
