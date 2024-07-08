@@ -25,6 +25,7 @@ There are several common features of fake news that may immediately flag a piece
 * Unusual URLs
 * Distorted dates
 * Fake authors
+* Misinformation and disinformation
 
 However, some articles may not immediately strike you as suspicious. When reading news or information online, no matter how sophisticated, you should always check for the following:
 
