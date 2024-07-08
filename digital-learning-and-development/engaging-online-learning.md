@@ -50,7 +50,7 @@ Keep things short and sharp – include only ‘need to know’ information on t
 Provide achievement markers, complemented by your concept checks, along the way.
 
 # Accessibility 
-It’s not all about high contrast and font size.  Accessibility relates to cognitive and emotional circumstances as well as physical, and these can change from day to day (as we all know!). Our student cohorts and their situations are diverse, so our online teaching needs to address as many of those situations as possible.
+It’s not all about high contrast and font size.  Accessibility relates to cognitive and emotional circumstances as well as physical, and these can change from day to day (as we all know!). Our student cohorts and their situations are diverse, so our online teaching needs to address as many of those situations as possible. Creating accessible makes it easier for all students, not just those with disabilities.
 For example: 
 
 > “Keep activity and assignment instructions simple and brief. Written directions … will support learners with attention or memory difficulties while also helping all students stay on task ….” (Saunders & Wong, 2020, Accessibility and Universal Design for Learning section).
